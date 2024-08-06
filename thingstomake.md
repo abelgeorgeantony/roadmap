@@ -1,7 +1,7 @@
-Conway's Game of life
-Programming language + Compiler
-DBMS
-VCS(Version Control System) like git
-HTTP Web Server
-A general purpose Game Engine
-A story-based game
+- [ ] Conway's Game of life
+- [ ] Programming language + Compiler
+- [ ] DBMS
+- [ ] VCS(Version Control System) like git
+- [ ] HTTP Web Server
+- [ ] A general purpose Game Engine
+- [ ] A story-based game
